@@ -34,12 +34,13 @@ Output:
 
     The script will generate an index.txt file containing indexed words in alphabetical order along with the page numbers they appear on.
     Example output in index.txt:
-
-        book : 1,2
-        example : 1
-        network : 1,2,3
-        programming : 2,3
-
+about : 2
+access : 2,3
+across : 1
+add : 2,3
+admin : 1
+administration : 1
+administrative : 2,3
 Error Handling
 
     Logs errors if files are missing or unreadable.
