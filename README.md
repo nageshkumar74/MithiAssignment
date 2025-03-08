@@ -1,4 +1,4 @@
-# MithiAssignment
+# Mithi Assignment
 # Book Indexer
 
 This Node.js script reads multiple text files from a directory, processes their content, and generates an index of words along with the page numbers they appear on. Additionally, it excludes common words from indexing using an exclude-words file.
